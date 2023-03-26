@@ -30,5 +30,5 @@ Launch the frontend on a development server with live reloading by executing
 npm start
 ```` 
 
-## Authors
+## Authors
 * **Aidan Sheehan** <aidannmsheehan@gmail.com>
